@@ -57,13 +57,13 @@ body {
 .subscriber-form {
   max-width: 1200px;
   color: transparent;
-  background-color: #e6fdfb;
+  background-color: #f9f8f8;
   border-left: 4px solid #1f3bdc;
   padding: 2rem;
   margin-left: 96px;
   margin-top: 50px;
   border-radius: 15px;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 5px 15px rgba(168, 168, 168, 0.05);
   margin-bottom: 2rem;
   animation: fadeIn 1s ease-out;
 }
@@ -90,7 +90,7 @@ body {
 .form-group label {
   display: block;
   margin-bottom: 0.5rem;
-  font-size: 17px;
+  font-size: 18px;
   font-weight: 500;
   color: #0d0d0d;
 }
