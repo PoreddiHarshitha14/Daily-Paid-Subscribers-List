@@ -107,8 +107,10 @@ body {
   border: 1px solid #ddd;
   border-radius: 8px;
   font-size: 1rem;
+  color: black;
+  font-weight: 400;
   transition: all 0.3s ease;
-  background: linear-gradient(90deg, #f8fafc 80%, #e0e7ff 100%);
+  /* background: linear-gradient(90deg, #f8fafc 80%, #e0e7ff 100%); */
   border: 1.5px solid #c7d2fe;
   box-shadow: 0 1px 4px rgba(110,142,251,0.06);
 }
@@ -130,7 +132,7 @@ body {
   left: 12px;
   top: 69%;
   transform: translateY(-50%);
-  color: #8b8c8d;
+  color: #6e6e6e;
   font-size: 1.1rem;
   pointer-events: none;
 }
@@ -204,7 +206,7 @@ body {
   border: 1px solid #ddd;
   border-radius: 8px;
   font-size: 0.8rem;
-  background: linear-gradient(90deg, #f8fafc 80%, #e0e7ff 100%);
+  /* background: linear-gradient(90deg, #f8fafc 80%, #e0e7ff 100%); */
   border: 1.5px solid #c7d2fe;
   box-shadow: 0 1px 4px rgba(110,142,251,0.06);
 }
